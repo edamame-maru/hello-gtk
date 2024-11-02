@@ -1,2 +1,2 @@
-# sayhello: Introduction to GTK
+# sayhello
 Introduction to the GTK Widget Toolkit
