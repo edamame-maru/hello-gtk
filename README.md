@@ -9,14 +9,18 @@ Please read carefully the steps for the build:
 2. Make sure you have a build environment set up to compile `C`. This means you need a `C` compiler, like `gcc`. Consult your distribution's documentation on how to install one.
 3. **Clone** this repository, either with `https/ssh` or `GitHub CLI`. You can also **download the zip file**, which works, but cloning is recommended so you can `git pull origin main` when I commit or push a new release.
 4. **Build** the code with `make`. Assuming you use `bash`, run:
+   
    ```
    # make install
    ```
    with root privileges.
-5. It should add to your `PATH`. **Run** the command:
+   
+6. It should add to your `PATH`. **Run** the command:
+   
    ```
    $ sayhello
    ```
+   
   to launch the GUI window.
   Please let me know if you have any questions.
 
