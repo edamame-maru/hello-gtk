@@ -19,3 +19,6 @@ Please read carefully the steps for the build:
    ```
   to launch the GUI window.
   Please let me know if you have any questions.
+
+  # Releases
+  Tags and releases found [here](https://github.com/Potato-Development/sayhello/releases). Why? Becuase I'm considering adding `AppImages` soon.
