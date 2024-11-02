@@ -1,5 +1,5 @@
 # sayhello
-Introduction to the GTK Widget Toolkit; work in progress
+Introduction to the GTK Widget Toolkit; **work in progress, don't expect anything to work yet.**
 
 # Installation
 Pre-built binaries are **unavailable** because **I'm not bothered to compile them.** This means everyone, both contributers and normal users, has to **build from source.** A universal `AppImage` for linux will be considered in the future, but I will never make `.deb` or `.rpm` files due to the hard work needed to maintain (too) many release files.
